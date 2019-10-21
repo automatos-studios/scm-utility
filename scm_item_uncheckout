@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+echo "-------------------------------------------------"
+echo RUNNING COMMAND scm_item_uncheckout
+echo "-------------------------------------------------"
+echo ""
+
+
+. $(dirname "$BASH_SOURCE")/scripts/scm_item_uncheckout.sh

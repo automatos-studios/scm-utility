@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+echo "-------------------------------------------------"
+echo RUNNING COMMAND scm_changelist_compare
+echo "-------------------------------------------------"
+echo ""
+
+. $(dirname "$BASH_SOURCE")/scripts/scm_changelist_compare.sh
+

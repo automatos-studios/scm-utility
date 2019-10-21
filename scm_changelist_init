@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+. $(dirname "$BASH_SOURCE")/scripts/scm_changelist_init.sh
+
